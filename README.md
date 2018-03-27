@@ -3,11 +3,16 @@
 > sxan-client provides the front-end software for the sxan human productivity network
 
 ## Objectives
-*Web app / Mobile
-*Draw scenes
-*Develop API
-*Build templates
-*Connect plugins
+
+* Web app / Mobile
+
+* Draw scenes
+
+* Develop API
+
+* Build templates
+
+* Connect plugins
 
 
 ## Build Setup
